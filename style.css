@@ -1,0 +1,157 @@
+.banner{
+    width: 100%;
+    height: 325px;
+   
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: white;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+   
+   background-image: url("images/donation13.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+h1{
+    font-size: 50px;
+}
+h6{
+    opacity: 80%;
+    letter-spacing: 2px;
+    font-weight: 100;
+}
+.clicks{
+    background-color: rgb(235, 103, 103);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 6px;
+}
+
+.a{
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+
+}
+.item-gap{
+   
+    color: rgb(0, 0, 0);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border-radius: 6px;
+    margin: 10px;
+    font-size: larger;
+  
+    
+    
+}
+.item-gap:focus{
+    
+    border: 2px solid rgb(235, 103, 103);
+}
+
+#am{
+    height: 50px;
+    width: 500px;
+    border: none;
+    border-bottom: 2px solid black;
+    margin: 20px;
+}
+#am:focus{
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    outline: none;
+
+}
+.main{
+    text-align: center;
+}
+
+.sec{
+    
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+.parts{
+    margin: 50px;
+    
+    padding: 20px;
+}
+.center{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+.sec2{
+    display: flex;
+}
+.parts2{
+    
+    margin: 0px 70px;
+    padding: 50px;
+    justify-content: center;
+}
+.email{
+    
+    padding: 80px; 
+    margin: 90px;
+    background-color: antiquewhite;
+    
+}
+#em{
+    height: 40px;
+    width: 300px;
+    
+}
+.foo{
+    text-align: center;
+    padding: 50px;
+    justify-content: center;
+    background-color: rgb(24, 23, 23);
+    color: white;
+    
+}
+#icon{
+    height: 30px;
+    width: 30px;
+}
+#Plan{
+    height: 350px;
+    width: 350px;
+}
+h5{
+    opacity: 50%;
+}
+#footer_line_1{
+         color: rgb(235, 103, 103);
+         font-family: fantasy;
+         font-size: larger;
+         letter-spacing: 5px;
+}
+
+#footer_line_2{
+    
+    font-weight: lighter;
+    font-size: smaller;
+}
+
+.parts.portion_1{
+    background-color: antiquewhite;
+}
+.parts.portion_2{
+    background-color: cornsilk;
+}
+.parts.portion_3{
+    background-color: rgb(245, 234, 220);
+}
